@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_d2fd5a2251e82705946a046c2f249fbc1fba693a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_e8d5c0b36f4e92f52df6edca36e6eadb58139fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_a99220a7fff86a5b67270ac358183051c319f47b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_2bb53ebef52a04cae5fd79830c95630db3b8a9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ad15048e099e23e91e49643291f60aa4ee692599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_c17ca93e3ceac5c235b60b74c2c42afbb7765c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_8f888c78b10563677522cc7ac5b70f7add2633f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.0.4_16a08b3a25e00815dffc09ebac9fe965468a1c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_679c7223381d0117c7903bef484c1a8aac0b76b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_298bd4356af9a461b5d272c3d24bd5d8079172ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-admob\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9b451495a4aacb606c675afc3d37ffd3d5657c02">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-admob-unspecified_8f1ca9243ca9888c598f9ca126dd4e56a1508c01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_f836f48121db4342258c3c0b78dda1f9dddcdad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-11.0.4_1c18ba2a38bd23a0692ed1cd469729ab1932a002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_6422f322fdfdb8c6f24d947e5c2213ee11bb19ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_ac2883aa553cd03ac7295cd7f752a88993a45de7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_f913c393d6d6460a68498ccec77c5ffb7d124468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_cfa726b7b574f1a29e6302ab64809468d66df950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-11.0.4_1fff9cac3684c757967f464ea81d7b124cb65f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_72531da16e921f46385b4b9359027435ac3ff5d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_2adaa4e35c2b77936728f9b5163c2e34a8efb569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-fast-image\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f367575e6e877d4c56d293e67a5c3434fbb6486f">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-fast-image-unspecified_49b96f149037984126a8e484b753ab99d32671ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_5a70155c825a007bc898e8075922adcb4dbba8d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_379f7e689c48b69ae65362fd70b6c475a3dc24aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.0.4_115438fb788563c033c73f758f9b875edde48004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-11.0.4_821d8286e2d094e58ad5a372e1b7556b81b4e9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_f5c7239c2adf0b75951812cda33da47418fc13e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-device-info\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a191119161c61cb6c69232da7824107a1dbe964c">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-device-info-unspecified_d6357d837484ae28de0dc76110bc6d250539e25f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_e5b329ead90bd16c83b5b39c99472bf662b4caa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_51923d60d36e4b58104cd7894f74ee07b660ed3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\okhttp3-integration\1.5.0\1e5d1f5fb6f867397009e73ea79b108ef6a51fc0\okhttp3-integration-1.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e5d1f5fb6f867397009e73ea79b108ef6a51fc0">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\okhttp3-integration-1.5.0_7ec5b9fe14bbf7ff375f4042c3cfa6d5de3e169e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_ae89adf4aa24c4ff0eafbd32648ad83ca7bd8cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-11.0.4_805c03f7ab068cb5eec4ea39429fd0330585679d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-share\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2740376b58c61c001dffa53f4959eeb1e91136e">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-share-unspecified_b04a215404b7d084b6270597ab67d9ee024f50b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_0d9976e99af9340203b99125365bafd664b0e1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.0.4_697c470aed9e09db624527d074190fca98a323a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_5377ec7c68473d800a94c0737dced81270ea3177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_91bafe0d050a4157bf4e645a0f17880052c693fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-device-info\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a191119161c61cb6c69232da7824107a1dbe964c">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-device-info-unspecified_1dc514d30680d5c1d0352bdf21ef5ff524198ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_3bbd0ff85e7db77d2e456b6933d8e54b3067d5de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_0fa4366f1c3002807188b5b1fe9451df8ac8a0cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-orientation-locker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eaad268ade0ecd1586032afa8c616b82f4e2a97d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-orientation-locker-unspecified_f192a6fd8a375e277acf2529484c852e1e0aeeff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_5e05bf4ec1f404e7e6eaa0b03115f4162f2f3bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_59df19d2c40355f8b93ade939af5303de0c40425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-orientation-locker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eaad268ade0ecd1586032afa8c616b82f4e2a97d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-orientation-locker-unspecified_fb5793350e25b436e11fc729b3a8636f84ff62b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a62eec3abda6deebbcd1581c87d3ddd6ee7daf47">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.1_6155dc2ea9f262a36dab70a364edf1832f66541b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_0515190ca9bf5e70b54e196b7c9adf1e19d8231e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d87832884e106ba38057ca336babc84c30578fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_f7d1a876fb3a95b669b72b6ff509f3814573f2d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-share\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2740376b58c61c001dffa53f4959eeb1e91136e">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-share-unspecified_49e8fee2c2be4fd1f2fd674691dd3a0e167e4008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_9f74bb86b5e833818a1fa80e716d2295077b449c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-fast-image\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f367575e6e877d4c56d293e67a5c3434fbb6486f">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-fast-image-unspecified_0a4e8ee8eb558b57db19de230735e235881ccd20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-fetch-blob\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5aca1188aec5f45a7580589b8537e9a8a4d9a86f">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-fetch-blob-unspecified_b88eb36d6150de7ccdf5412b88dcda3c05f14b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_ebd22bf5586775a8e1ee1a32418ece9d148f0a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-fetch-blob\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5aca1188aec5f45a7580589b8537e9a8a4d9a86f">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-fetch-blob-unspecified_ffe9b463e5019fe04d2921beeef1548a2fe88b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_89dd6790573d2a954b016a5b260f787390cd9869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_9c6729b6cff80bd3e332d987d4aaef8f47aa9001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a62eec3abda6deebbcd1581c87d3ddd6ee7daf47">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.1_d4e5b2ef2ee141bff0c97f1cbdb4684e4b15be01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_8ef2076184818fb6a43489999fc7251309bc871d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-11.0.4_439f758ac31a04fa164038b69c09be5dceb3a24e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-11.0.4_117384e83734c60e7b4c5e2043a2eab5be0b03f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_e7557308bc14f042bcbb918da92395386405671f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-11.0.4_f5ceb6ced5ca7e62512e7a8e0e58bbb2dcc2f41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-11.0.4_d07a861640e324b0231d5519da019e798326270a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\glide-3.8.0_9002ea99289847219324838c748c830951308d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_435506ae44b2ef9bd6889ad699b58d938543136e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_800304afed0ec9f573954bcb9035ef371c64057f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_ee1fbf63f8b67122dc95ca7f3327b2f24a4658d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_9c611baea86671d4eccf1559f0dcabc998589aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_db024a2ac7fac2b9f38b1cf83b52c09f1b57b885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_91ef4be519aa4476eb8d73f5a47494126e5c27ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-11.0.4_559ca2e1e0321485e80cc52e93310f21025cdf65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_113caef5c2b176ee5306569743874e1285a5bee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-11.0.4_aafe35a2c4e182e61abf5171c9a1af6186c13134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_663248a16557fe1281c8b71f5df624f35ada7237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_020f23e9facf3c4cda29f840cdb727622aec4f73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_91f420d910ea9962480959963ca151c6d206ec0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-google-analytics-bridge\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4343d46b30b676f728429c86d2e73e2df9ec9878">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-google-analytics-bridge-unspecified_6ebe63934531b5c94cf6d875cf1f559b367e1a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_e2f590dafeec5e9c635e5dd33b18187b87c81fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_8e6b978166fe379abc02426193db63fb79901f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Palm\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_170cf97abeb2ac81522147bccfb11d562f7f5a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anandhaprabhu.s\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_686b27e0c0b0da16f0480f8a23b880ce0a5f23cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\exploded-aar\reactTutorialApp\react-native-google-analytics-bridge\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4343d46b30b676f728429c86d2e73e2df9ec9878">
+        <dex dex="D:\AnandhaprabhuSp\Arivohm Crack ReactJs\android\app\build\intermediates\pre-dexed\debug\reactTutorialApp-react-native-google-analytics-bridge-unspecified_0415656b781e0c4b1fa62231f3b125d686c4564d.jar" />
+    </item>
+
+</items>
